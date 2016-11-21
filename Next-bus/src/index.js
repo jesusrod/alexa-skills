@@ -7,7 +7,7 @@
 //
 // This skill is meant to assist users on querying for their buses while Dublin Bus releases an official skill for this.
 //
-// In no way I will try to get credits nor finantial gain for this skill and the code is free to use on other versions
+// In no way I will try to get credits nor financial gain for this skill and the code is free to use on other versions
 //
 // This Skill was not created or endorsed by Amazon in any way.
 
