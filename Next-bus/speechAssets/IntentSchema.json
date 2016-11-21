@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetNextBusIntent",
+      "slots": [
+        {
+          "name": "bus",
+          "type": "NUMBER"
+       }
+        ]},
+          {
+      "intent": "HelpIntent",
+      "slots": []
+    },
+     {
+      "intent": "StopIntent"
+    },
+    {
+      "intent": "CancelIntent"
+}
+  ]
+}
