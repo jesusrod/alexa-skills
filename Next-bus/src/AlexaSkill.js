@@ -1,5 +1,4 @@
 
-
 'use strict';
 function AlexaSkill(appId) {
     this._appId = appId;
